@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RANASINGHE/MLflow-Basic/mlruns/0/fbb3a4c378084e1d9da5c5163043ff01/artifacts
+end_time: 1720510196448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbb3a4c378084e1d9da5c5163043ff01
+run_name: stately-boar-8
+run_uuid: fbb3a4c378084e1d9da5c5163043ff01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720510192097
+status: 3
+tags: []
+user_id: RANASINGHE
